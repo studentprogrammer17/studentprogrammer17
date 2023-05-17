@@ -1,7 +1,3 @@
-Всем ку, кто очутился на моём гите. Не знаю, что вы тут забыли, возможно хотите позаимствовать мой прекрасный код.
-Если это так, то я не против, только не копипиасть под чистую весь код, разберись хоть сам немного в коде, алгоритме,
-если этого не делать, то программирование для тебя бессмысленное занятие, иди лучше на завод работай, полезней будет.
+Hello my friends, I am Dmytro from Ukraine, studying in NTU Kharkiv Polytechnic Institute as a programmer. In my github account you can find really interesting projects that I did during studying in University and also Innovation Campus. Enjoy)
 
 gitlab: https://gitlab.com/studentprogrammer17
-
-P.S. русня - народ гній, русня - народ мразь, русня - народ непотреб, русня - народ сміття, та в загалі русня це не народ, це біомаса (с) MC Петя 60р до н.е.
